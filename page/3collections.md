@@ -17,7 +17,7 @@ type: page
 ## 他山之石
 
 ### C++
-*C++工程实践[http://blog.csdn.net/Solstice/article/category/793463]
+* C++工程实践[http://blog.csdn.net/Solstice/article/category/793463]
 
 ### Linux
 
