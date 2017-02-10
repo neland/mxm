@@ -14,13 +14,33 @@ type: page
 * [阮一峰](ruanyifeng.com)
 * [陈硕](http://blog.csdn.net/Solstice)
 
-## 他山之石
+## 文章
 * C++
-    -  [C++工程实践](http://blog.csdn.net/Solstice/article/category/793463)
+    -  [陈硕的C++工程实践](http://blog.csdn.net/Solstice/article/category/793463)
+    -  [Google建议的编码规范](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
 * Linux
+    - 系统
+        + [Linux系统详解](http://blog.csdn.net/hguisu/article/details/6122513)
+* 网络通信
+    - TPC/IP
+        + [TCP/IP很清晰的解读](http://blog.mrriddler.com/2017/01/13/TCP:IP%E6%BC%AB%E6%B8%B8/)
 * 设计
 * 工具
-
+* Web
+    - REST API
+        + [RESTful HTTP的实践](http://www.infoq.com/cn/articles/designing-restful-http-apps-roth/)
+        + [Github的Rest实践参考](https://developer.github.com/v3/)
+        + [阮一峰对REST的理解，通俗易懂](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
+* 开源
+    - Redis
+        + [Redis手册相关](http://redisdoc.com/)
+    - Nginx
+        + [Nginx二次开发,淘宝团队](http://tengine.taobao.org/book/)
+        + [OpenResty作者写的Nginx技术文档](https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html)
+    - ProtoBuffer
+        + [Protocol Buffer技术详解](http://www.cnblogs.com/stephen-liu74/archive/2013/01/02/2841485.html)   
+    - Zookeeper
+        + [Zookeeper使用指南，一个不错的笔记](http://www.cnblogs.com/haippy/archive/2013/02/21/2919365.html) 
 ## Comments
 
 {% include comments.html %}
