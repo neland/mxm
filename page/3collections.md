@@ -41,6 +41,6 @@ type: page
         + [Protocol Buffer技术详解](http://www.cnblogs.com/stephen-liu74/archive/2013/01/02/2841485.html)   
     - Zookeeper
         + [Zookeeper使用指南，一个不错的笔记](http://www.cnblogs.com/haippy/archive/2013/02/21/2919365.html) 
-## Comments
 
+## Comments
 {% include comments.html %}
