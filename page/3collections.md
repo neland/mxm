@@ -14,7 +14,7 @@ type: page
 * [阮一峰](ruanyifeng.com)
 * [陈硕](http://blog.csdn.net/Solstice)
 
-## 文章
+## 温故而知新
 * C++
     -  [陈硕的C++工程实践](http://blog.csdn.net/Solstice/article/category/793463)
     -  [Google建议的编码规范](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
@@ -31,6 +31,8 @@ type: page
         + [RESTful HTTP的实践](http://www.infoq.com/cn/articles/designing-restful-http-apps-roth/)
         + [Github的Rest实践参考](https://developer.github.com/v3/)
         + [阮一峰对REST的理解，通俗易懂](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
+    - WEB后端
+        + [微服务](http://mp.weixin.qq.com/s?__biz=MjM5MjEwNTEzOQ==&amp;mid=401500724&amp;idx=1&amp;sn=4e42fa2ffcd5732ae044fe6a387a1cc3##) 
 * 开源
     - Redis
         + [Redis手册相关](http://redisdoc.com/)
