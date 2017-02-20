@@ -14,6 +14,9 @@ type: page
 * [阮一峰](ruanyifeng.com)
 * [陈硕](http://blog.csdn.net/Solstice)
 
+## 网站
+* [大辉做的一个信息搜集](http://news.dbanotes.net/)
+
 ## 温故而知新
 * C++
     -  [陈硕的C++工程实践](http://blog.csdn.net/Solstice/article/category/793463)
