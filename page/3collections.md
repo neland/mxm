@@ -24,14 +24,12 @@ type: page
 * 网络通信
     - TPC/IP
         + [TCP/IP很清晰的解读](http://blog.mrriddler.com/2017/01/13/TCP:IP%E6%BC%AB%E6%B8%B8/)
-* 设计
-* 工具
 * Web
     - REST API
         + [RESTful HTTP的实践](http://www.infoq.com/cn/articles/designing-restful-http-apps-roth/)
         + [Github的Rest实践参考](https://developer.github.com/v3/)
         + [阮一峰对REST的理解，通俗易懂](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
-    - WEB后端
+    - WEB后端服务
         + [微服务](http://mp.weixin.qq.com/s?__biz=MjM5MjEwNTEzOQ==&amp;mid=401500724&amp;idx=1&amp;sn=4e42fa2ffcd5732ae044fe6a387a1cc3##) 
 * 开源
     - Redis
