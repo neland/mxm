@@ -23,9 +23,11 @@ type: page
     -  [Google建议的编码规范](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
 * 工具
     - [Git 常用命令梳理 阮一峰 ](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)  
-* Linux
-    - 系统
+* 操作系统
+    - linux
         + [Linux系统详解](http://blog.csdn.net/hguisu/article/details/6122513)
+    - 操作系统
+        + [深入理解计算机系统](http://blog.csdn.net/xuejianhui/article/details/52577937)
 * 网络通信
     - TPC/IP
         + [TCP/IP很清晰的解读](http://blog.mrriddler.com/2017/01/13/TCP:IP%E6%BC%AB%E6%B8%B8/)
