@@ -27,7 +27,7 @@ type: page
     - linux
         + [Linux系统详解](http://blog.csdn.net/hguisu/article/details/6122513)          
     - 操作系统
-        + [深入理解计算机系统](http://blog.csdn.net/xuejianhui/article/details/52577937)
+        + [深入理解计算机系统](http://blog.csdn.net/xuejianhui/article/details/52577937)
         
 * 网络通信
     - TPC/IP
