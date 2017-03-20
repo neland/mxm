@@ -21,6 +21,8 @@ type: page
 * C++
     -  [陈硕的C++工程实践](http://blog.csdn.net/Solstice/article/category/793463)
     -  [Google建议的编码规范](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
+* Python
+    - [Python 语言学习](http://www.pythondoc.com/pythontutorial3/index.html) 
 * 工具
     - [Git 常用命令梳理 阮一峰 ](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)  
 * 操作系统
@@ -32,6 +34,8 @@ type: page
 * 网络通信
     - TPC/IP
         + [TCP/IP很清晰的解读](http://blog.mrriddler.com/2017/01/13/TCP:IP%E6%BC%AB%E6%B8%B8/)
+    - HTTPS
+        + [Https的安全策略](https://showme.codes/2017-02-20/understand-https/)
 * Web
     - REST API
         + [RESTful HTTP的实践](http://www.infoq.com/cn/articles/designing-restful-http-apps-roth/)
@@ -39,6 +43,7 @@ type: page
         + [阮一峰对REST的理解，通俗易懂](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
     - WEB后端服务
         + [微服务](http://mp.weixin.qq.com/s?__biz=MjM5MjEwNTEzOQ==&amp;mid=401500724&amp;idx=1&amp;sn=4e42fa2ffcd5732ae044fe6a387a1cc3##) 
+        + [微服务实践](http://blog.daocloud.io/microservices-7/)
 * 开源
     - Redis
         + [Redis手册相关](http://redisdoc.com/)
