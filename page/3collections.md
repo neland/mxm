@@ -29,8 +29,7 @@ type: page
     - linux
         + [Linux系统详解](http://blog.csdn.net/hguisu/article/details/6122513)          
     - 操作系统
-        + [深入理解计算机系统](http://blog.csdn.net/xuejianhui/article/details/52577937)
-        
+        + [深入理解计算机系统](http://blog.csdn.net/xuejianhui/article/details/52577937)    
 * 网络通信
     - TPC/IP
         + [TCP/IP很清晰的解读](http://blog.mrriddler.com/2017/01/13/TCP:IP%E6%BC%AB%E6%B8%B8/)
@@ -44,6 +43,8 @@ type: page
     - WEB后端服务
         + [微服务](http://mp.weixin.qq.com/s?__biz=MjM5MjEwNTEzOQ==&amp;mid=401500724&amp;idx=1&amp;sn=4e42fa2ffcd5732ae044fe6a387a1cc3##) 
         + [微服务实践](http://blog.daocloud.io/microservices-7/)
+    - 前端
+        + [浏览器工作流程](http://www.cnblogs.com/lhb25/p/how-browsers-work.html)
 * 开源
     - Redis
         + [Redis手册相关](http://redisdoc.com/)
