@@ -39,6 +39,7 @@ type: page
     - REST API
         + [RESTful HTTP的实践](http://www.infoq.com/cn/articles/designing-restful-http-apps-roth/)
         + [Github的Rest实践参考](https://developer.github.com/v3/)
+        + [微软API建议](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
         + [阮一峰对REST的理解，通俗易懂](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
     - WEB后端服务
         + [微服务](http://mp.weixin.qq.com/s?__biz=MjM5MjEwNTEzOQ==&amp;mid=401500724&amp;idx=1&amp;sn=4e42fa2ffcd5732ae044fe6a387a1cc3##) 
