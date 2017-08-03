@@ -41,6 +41,7 @@ make install
 global
    lua-load main.lua
 ```    
+
 #### 注册函数
 * 函数注册支持匿名函数
 * 这些函数在Haproxy使用的时候，会根据场景，将上下文传递给注册的函数
@@ -48,6 +49,7 @@ global
    - register_action会传递本次请求的对象txn
    - 在函数中，可以使用这些对象，具体对象属性和功能，可以参看官方[API](http://www.arpalert.org/src/haproxy-lua-api/1.8dev/index.html#http-class)
    - register_init和register_task，是会在Haproxy加载完成后就执行
+
 ```
 -- main.lua
 core.register_action("myaction", { "tcp-req", "http-req" }, function(txn)
@@ -82,9 +84,10 @@ core.register_service("myservice", "http", myservice )
    - 替换行为
        + http-request lua.myaction
        + tcp-request  lua.myaction
-    - 替换字符
+   - 替换字符
        + %[lua.myfetch] 
-    - 写了一些[例子](https://github.com/neland/haproxy-for-lua)
+   - 写了一些[例子](https://github.com/neland/haproxy-for-lua)
+
 ```
 global
    lua-load main.lua
