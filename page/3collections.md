@@ -25,6 +25,7 @@ type: page
     - [Python 语言学习](http://www.pythondoc.com/pythontutorial3/index.html) 
 * 工具
     - [Git 常用命令梳理 阮一峰 ](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)  
+    - [Git 中文说明](http://git.oschina.net/progit)
 * 操作系统
     - linux
         + [Linux系统详解](http://blog.csdn.net/hguisu/article/details/6122513)          
