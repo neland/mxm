@@ -57,6 +57,8 @@ type: page
         + [Protocol Buffer技术详解](http://www.cnblogs.com/stephen-liu74/archive/2013/01/02/2841485.html)   
     - Zookeeper
         + [Zookeeper使用指南，一个不错的笔记](http://www.cnblogs.com/haippy/archive/2013/02/21/2919365.html) 
+    - Docker
+        + [Docker的核心思想](http://dockone.io/article/2941)
 * 设计
     - 架构
         + [架构感悟-美国宪法的联想](http://mp.weixin.qq.com/s/3yGZ0uO2BKGym9UDN4tNkQ)
